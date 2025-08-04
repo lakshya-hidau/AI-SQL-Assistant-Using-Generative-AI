@@ -4,6 +4,7 @@ Welcome to **AI SQL Assistant** – an interactive Streamlit app that lets you q
 
 ![AI SQL Assistant Banner](https://img.shields.io/badge/AI-SQL-blueviolet?style=for-the-badge)
 
+**Live Link** - (https://ai-sql-assistant-using-generative-ai.streamlit.app/)
 ---
 
 ## 🚀 Features
